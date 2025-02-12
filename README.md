@@ -14,7 +14,7 @@ Bumper Fury HTML5 game project
 ### Features
 * Physical emulation using Javascript & Phaser
 * Multiplayer game with Node.js & WebSocket
-* Artificial intelligence for bots
+* Artificial intelligence for bot behavior
 * Game logic management
 
 Collision detection 
